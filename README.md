@@ -1,4 +1,10 @@
-VOTACIÓN DE FACILITADORES 
+Este es uno de las consignas a programar con el equipo realizando metodologias agiles (SCRUM)
+
+Contacto:
+ [LinkedIn - Aguirre Analia](https://www.linkedin.com/in/analiaaguirre/) o
+ [Email](aguirreanalia.dev@gmail.com).
+
+#VOTACIÓN DE FACILITADORES 
 
 Desarrollar un simulador del sistema de votación de facilitadores en Egg.
 El sistema de votación de Egg tiene una clase llamada Alumno con los siguientes
